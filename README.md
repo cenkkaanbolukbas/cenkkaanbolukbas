@@ -1,4 +1,4 @@
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' align='left'>
 
 
 
