@@ -1,3 +1,7 @@
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+
+
+
 - 👋 Cenk Kaan BÖLÜKBAŞ
 - Information Systems Engineer 💻
 - Computer Programmer 💻
