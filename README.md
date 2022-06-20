@@ -2,7 +2,7 @@
 - Information Systems Engineer 💻
 - Computer Programmer 💻
 - 📫 cenkkaan.bolukbas@outlook.com
-- <a href="https://www.linkedin.com/in/cenkkaanbolukbas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ibrahimcanerdogan" height="30" width="40" /></a>
+-  <a href="https://www.linkedin.com/in/cenkkaanbolukbas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 <!---
