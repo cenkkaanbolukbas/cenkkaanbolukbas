@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cenkkaanbolukbas
-- Information Systems Engineer
-- Computer Programmer
+- Information Systems Engineer 💻
+- Computer Programmer 💻
 - linkedin.com/in/cenkkaanbolukbas/
 - 📫 cenkkaan.bolukbas@outlook.com
 
