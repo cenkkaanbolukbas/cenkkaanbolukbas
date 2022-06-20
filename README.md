@@ -2,7 +2,7 @@
 - Information Systems Engineer 💻
 - Computer Programmer 💻
 - 📫 cenkkaan.bolukbas@outlook.com
-- [Twitter]
+- [LinkedIn](https://www.linkedin.com/in/cenkkaanbolukbas/)!
 
 
 <!---
