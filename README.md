@@ -3,6 +3,9 @@
 - Computer Programmer 💻
 - linkedin.com/in/cenkkaanbolukbas/
 - 📫 cenkkaan.bolukbas@outlook.com
+- Atılım University 🎓
+- Bozok University 🎓
+- Anadolu University 🎓
 
 <!---
 cenkkaanbolukbas/cenkkaanbolukbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
