@@ -2,7 +2,8 @@
 - Information Systems Engineer 💻
 - Computer Programmer 💻
 - 📫 cenkkaan.bolukbas@outlook.com
-- 
+- ![Twitter]
+
 
 <!---
 cenkkaanbolukbas/cenkkaanbolukbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
