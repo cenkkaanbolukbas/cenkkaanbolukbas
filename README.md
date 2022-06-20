@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cenk Kaan BÖLÜKBAŞ
+- 👋 Cenk Kaan BÖLÜKBAŞ
 - Information Systems Engineer 💻
 - Computer Programmer 💻
 - 📫 cenkkaan.bolukbas@outlook.com
