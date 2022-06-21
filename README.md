@@ -1,5 +1,5 @@
 <img src='https://imgyukle.com/f/2022/06/21/VNiqYA.gif' align='right'>
-<img align="center" alt="Keshav's Linkdein" width="100px" src="https://imgyukle.com/f/2022/06/21/VNsRa6.png" />
+<img align="right" alt="Keshav's Linkdein" width="150px" src="https://imgyukle.com/f/2022/06/21/VNsRa6.png" />
 <br>
 <br>
 <br>
