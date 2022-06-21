@@ -1,4 +1,4 @@
-<img src='https://imgyukle.com/f/2022/06/21/VNs48j.jpg' align='right'>
+<img src='https://imgyukle.com/f/2022/06/21/VNBsl8.png' align='right'>
 
 
 <div align="left">- 👋 Cenk Kaan BÖLÜKBAŞ</div>
