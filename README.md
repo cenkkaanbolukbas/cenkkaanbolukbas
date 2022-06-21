@@ -3,14 +3,6 @@
 <br>
 <br>
 <br>
-<br>
-<br><br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 <div align="left">- 👋 Cenk Kaan BÖLÜKBAŞ</div>
 <div align="left">- Information Systems Engineer 💻</div>
