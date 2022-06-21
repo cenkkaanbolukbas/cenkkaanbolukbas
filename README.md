@@ -1,20 +1,5 @@
-<img src='https://imgyukle.com/f/2022/06/21/VNiqYA.gif' align='right'>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img align="right" alt="Keshav's Linkdein" width="150px" src="https://imgyukle.com/f/2022/06/21/VNsRa6.png" />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img src='https://imgyukle.com/f/2022/06/21/VNsXQS.png' align='right'>
+<img src='https://imgyukle.com/f/2022/06/21/VNs48j.jpg' align='right'>
+
 
 <div align="left">- 👋 Cenk Kaan BÖLÜKBAŞ</div>
 
