@@ -1,7 +1,7 @@
 <img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' align='right'>
 <br>
 <br>
-
+<br>
 
 <div align="left">- 👋 Cenk Kaan BÖLÜKBAŞ</div>
 
