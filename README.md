@@ -11,7 +11,7 @@
 
 <div align="left">- 📫 cenkkaan.bolukbas@outlook.com</div>
   <br>
-<img src='https://resimyukle.io/r/R4eyf7K46s' align='right'>
+<img src='https://resimyukle.io/r/R4eyf7K46s' align='left'>
 
 <div align="">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cenkkaanbolukbas" target="_blank" rel="nofollow"><img align="center" alt="Keshav's Linkdein" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/cenkkaann" target="_blank" rel="nofollow"><img align="center" alt="Keshav's Insta" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
