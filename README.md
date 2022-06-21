@@ -1,10 +1,10 @@
-<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' align='left'>
+<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' align='right'>
 
 
-<div align="right">- 👋 Cenk Kaan BÖLÜKBAŞ</div>
-<div align="right">- Information Systems Engineer 💻</div>
-<div align="right">- Computer Programmer 💻</div>
-<div align="right">- 📫 cenkkaan.bolukbas@outlook.com</div>
+<div align="left">- 👋 Cenk Kaan BÖLÜKBAŞ</div>
+<div align="left">- Information Systems Engineer 💻</div>
+<div align="left">- Computer Programmer 💻</div>
+<div align="left">- 📫 cenkkaan.bolukbas@outlook.com</div>
   
 
 <div align="center">
