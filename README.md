@@ -2,7 +2,7 @@
 
 
 <div align="right">
-- 👋 Cenk Kaan BÖLÜKBAŞ
+  <div align="right">- 👋 Cenk Kaan BÖLÜKBAŞ</div>
 - Information Systems Engineer 💻
 - Computer Programmer 💻
 - 📫 cenkkaan.bolukbas@outlook.com
